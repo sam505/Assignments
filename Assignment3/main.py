@@ -11,7 +11,7 @@ from qualityAssurance import gradeAssignment
 #defines the entry point logic of the entire program
 def _main_() :
 
-    fileName = '.\data\salaries'
+    fileName = './data/salaries'
     extension = 'xls'
 
     #generating the JSON equaivalent of the excel sheet
